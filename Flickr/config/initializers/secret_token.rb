@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Flickr::Application.config.secret_token = '0d0f23bfa6d83539ce48056e5f17eb6b6e189ee2ae9abeea160b7ac95f4d2d362e25348c2a45ea250ce11526e3def3306a44407d03a730ec0a803524ccccdab2'
+Flickr::Application.config.secret_token = '9c9634e082dd7bfb8c4971c16304e91ad07f99f04e823f6b6ae1e7ce632e8e8cc03f9172bc4a059d09b363b8f067902c45e804e485681a4e1b87562023ad1c1b'

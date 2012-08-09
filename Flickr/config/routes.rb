@@ -1,6 +1,8 @@
 Flickr::Application.routes.draw do
   resources :photos
 
+  match "user" => "photos#read_message"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
